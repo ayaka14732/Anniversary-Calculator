@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">Anniversary Calculator</string>
+    <string name="app_name">Mindedage</string>
+    <string name="app_name_zh">紀念日</string>
+    <string name="app_name_en">Anniversaries</string>
 </resources>

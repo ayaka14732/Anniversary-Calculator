@@ -21,4 +21,3 @@ dependencyResolutionManagement {
 
 rootProject.name = "Anniversary Calculator"
 include(":app")
- 
